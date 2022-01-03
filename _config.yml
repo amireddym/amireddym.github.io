@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Graduate Student at Northeastern University"
   location         : "Boston, MA"
-  employer         :
+  employer         : "https://www.northeastern.edu"
   pubmed           : 
   googlescholar    : 
   email            : "amireddym@northeastern.edu"
@@ -101,8 +101,8 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/manojreddyamireddy/"
   orcid            : 
   pinterest        :
   soundcloud       :
