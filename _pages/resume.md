@@ -7,6 +7,6 @@ redirect_from:
 ---
 
 
-<body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://amireddym.github.io/files/resume.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<body style="width:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=https://amireddym.github.io/files/resume.pdf &embedded=true" style="width:100%;" frameborder="0"></iframe>
 </body>
