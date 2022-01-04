@@ -7,7 +7,6 @@ redirect_from:
   - /experience
 ---
 
-======
 [Kaleidofin India Private Ltd](https://kaleidofin.com), IIT Madras Research Park, Chennai.
 * Software Development Engineer II  (Sep 2019 - Aug 2021)
   * Migrated all monolithic applications into a microservices using the best application design patterns from Spring Framework ecosystem.
