@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Manoj Reddy Amireddy's home on the Web.
+This is **Manoj Reddy Amireddy**'s home on the Web.
 
 Skilled developer and team member with diverse experience utilizing Java tools for all development environments. 
 
