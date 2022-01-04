@@ -8,11 +8,11 @@ redirect_from:
 
 Personal
 ======
-* [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:manojreddydeveloper@gmail.com)
+* <li><a href="mailto:amireddym@northeastern.edu"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> manojreddydeveloper@gmail.com</a></li>
 * Phone No - 6174351707
 * Address  - Boston, MA.
 
 Official
 ======
-* [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:amireddym@northeastern.edu)
+* [amireddym@northeastern.edu](mailto:amireddym@northeastern.edu)
 * Address  - Northeastern University, Boston, MA.
