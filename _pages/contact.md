@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Contact Info"
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -8,11 +9,12 @@ redirect_from:
 
 Personal
 ======
-<li><a><i class="fa-solid fa-phone"></i> 6174351707 </a></li>
+* Mail id  - manojreddydeveloper@gmail.com
+* Phone No - 6174351707
 * Address  - Boston, MA.
-<li><a href="mailto:manojreddydeveloper@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> manojreddydeveloper@gmail.com</a></li>
+
 
 Official
 ======
+* Mail id  - amireddym@northeastern.edu
 * Address  - Northeastern University, Boston, MA.
-<li><a href="mailto:amireddym@northeastern.edu"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> amireddym@northeastern.edu</a></li>
