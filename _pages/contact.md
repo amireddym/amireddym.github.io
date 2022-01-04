@@ -7,7 +7,6 @@ redirect_from:
   - /contact
 ---
 
-======
 * Mail id  - manojreddydeveloper@gmail.com
 * Phone No - 6174351707
 * Address  - Boston, MA.
