@@ -7,6 +7,12 @@ redirect_from:
   - /experience
 ---
 
+[**Nokia**](https://www.nokia.com/), Boston, MA.
+* **Security Software Developer Co-op** (May 2022 - Dec 2022)
+  * Developed extensions for the Customized IAM solution based on the OpenSource Keycloak project.
+  * Updated Helm charts for the IAM project for new releases.
+  * Built the flow and created an application for the logging functionality in the latest release.
+
 [**Kaleidofin India Private Ltd**](https://kaleidofin.com), IIT Madras Research Park, India.
 * **Software Development Engineer II**  (Sep 2019 - Aug 2021)
   * Migrated all monolithic applications into a **microservices** using the best application design patterns from **Spring Framework** ecosystem.
